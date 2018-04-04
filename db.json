@@ -1,6 +1,6 @@
 {
   "user": [
-    { "id":1,"username": "Basimaa",,"email": "Basimaa","gender": "Basimaa","first_name": "Basimaa","last_name": "Basimaa","full_name": "Basimaa","weight": "Basimaa","height": "Basimaa","age_in_years": "Basimaa","birth_date": "Basimaa","address": "Basimaa","phone_number": "Basimaa" }
+    { "id":1,"username": "Basimaa","email": "Basimaa","gender": "Basimaa","first_name": "Basimaa","last_name": "Basimaa","full_name": "Basimaa","weight": "Basimaa","height": "Basimaa","age_in_years": "Basimaa","birth_date": "Basimaa","address": "Basimaa","phone_number": "Basimaa" }
    
   ]
 }
