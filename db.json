@@ -1,20 +1,9 @@
 {
-  "users": [
-    { "id":1,
-     "username": "Basima Hekal",
-     "email": "nn@yahoo.com",
-     "gender": "female",
-     "first_name": "Basima",
-     "last_name": "Hekal",
-     "full_name": "Basima Hekal",
-     "weight": "weight",
-     "height": "height",
-     "age_in_years": "23",
-     "birth_date": "1995-03-30",
-     "address": "Talkha",
-     "phone_number": "2512545421",
-     "trusted_number": "2536780",
-     "image": "http://192.168.1.3/photos/ultrasonic.png"
-    }
+  "Sensors": [
+    { "id": 1, "name": "go to hospital","cost": "550","State":"ON","barcode": "95215335","description": "An Ultrasonic sensor is a device that can measure the distance to an object by using sound waves. It measures distance by sending out a sound wave at a specific frequency and listening for that sound wave to bounce back. By recording the elapsed time between the sound wave being generated and the sound wave bouncing back, it is possible to calculate the distance between the sonar sensor and the object. ","image": "http://192.168.1.5/photos/ultrasonic.png" },
+    { "id": 2, "name": "reed micro book","cost": "500","State":"OFF","barcode": "95215335","description": "An Ultrasonic sensor is a device that can measure the distance to an object by using sound waves. It measures distance by sending out a sound wave at a specific frequency and listening for that sound wave to bounce back. By recording the elapsed time between the sound wave being generated and the sound wave bouncing back, it is possible to calculate the distance between the sonar sensor and the object. ","image": "http://192.168.1.5/photos/servo.png" },
+    { "id": 3, "name": "turn off laptop ","cost": "330","State":"ON","barcode": "95215335","description": "An Ultrasonic sensor is a device that can measure the distance to an object by using sound waves. It measures distance by sending out a sound wave at a specific frequency and listening for that sound wave to bounce back. By recording the elapsed time between the sound wave being generated and the sound wave bouncing back, it is possible to calculate the distance between the sonar sensor and the object. ","image": "http://192.168.1.5/photos/groscope.png" },
+    { "id": 4, "name": "go to supermarket","cost": "400","State":"ON","barcode": "95215335","description": "An Ultrasonic sensor is a device that can measure the distance to an object by using sound waves. It measures distance by sending out a sound wave at a specific frequency and listening for that sound wave to bounce back. By recording the elapsed time between the sound wave being generated and the sound wave bouncing back, it is possible to calculate the distance between the sonar sensor and the object. ","image": "http://192.168.1.5/photos/dht11.png" },
+     { "id": 5, "name": "cleen your teeth","cost": "60","State":"OFF","barcode": "95215335","description": "An Ultrasonic sensor is a device that can measure the distance to an object by using sound waves. It measures distance by sending out a sound wave at a specific frequency and listening for that sound wave to bounce back. By recording the elapsed time between the sound wave being generated and the sound wave bouncing back, it is possible to calculate the distance between the sonar sensor and the object. ","image": "http://192.168.1.5/photos/keypad.png" }
   ]
 }
